@@ -1,1 +1,1 @@
-[Github] (https://github.com/Eldeewealth/alx-pre_course)
+My first readme
